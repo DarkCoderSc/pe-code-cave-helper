@@ -41,7 +41,8 @@ What interesting thing is the way I decided to restore ESP (stack pointer). I'm 
 
 ## Screenshots
 
-
+![Image 1](https://i.ibb.co/bb8WshH/Screenshot-2020-11-09-at-15-46-59.png)
+![Image 2](https://i.ibb.co/TMk94WF/Screenshot-2020-11-09-at-15-47-38.png)
 
 ## TODO
 
