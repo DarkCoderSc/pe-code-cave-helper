@@ -27,7 +27,7 @@ The script will then inject instruction on code cave to:
 - Restore CPU Registers and flags.
 - Redirect back execution to original entry point.
 
-What interesting thing is the way I decided to restore ESP (stack pointer). I'm using a quite similar method as for Egg Hunters to search and restore original stack pointer value.
+One interesting point is the way I decided to restore ESP (stack pointer). I'm using a quite similar method as for Egg Hunters to search and restore original stack pointer value.
 
 ## Available Commands
 
